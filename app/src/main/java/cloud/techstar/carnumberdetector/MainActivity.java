@@ -16,8 +16,6 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.freezzzy.detector.R;
-
 import org.json.JSONException;
 import org.json.JSONObject;
 import org.opencv.android.BaseLoaderCallback;
